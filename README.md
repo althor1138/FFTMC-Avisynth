@@ -2,7 +2,7 @@
 Motion Compensated FFT3D Denoiser.
 
 Requirements:
-Avisynth 2.6 or higher
+Avisynth 2.6 or higher 
 fft3dfilter
 MVTOOLS2 2.6.05 or higher
 
