@@ -8,7 +8,7 @@ MVTOOLS2 2.6.05 or higher
 
 function fftmc(clip input, float "sigma", float "beta", int "mthresh", int "blocksize", int "overlap", float "sharpen", clip "auxclip" )
 
-Sigma
+Sigma 
 Denoising Strength
 
 Beta
